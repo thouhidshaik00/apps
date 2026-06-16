@@ -1,0 +1,6 @@
+{
+  "name": "TaskSync Board",
+  "description": "An offline-first team Kanban task board with personalized checklists, real-time sync histories, and collaborative clash reconciliations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
